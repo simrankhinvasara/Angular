@@ -1,0 +1,11 @@
+Q. Create Angular Application which creates one Custom component named as Demo. Render that Demo component from app component.  
+
+
+Create a new workspace and an initial project: ng new MarvellousApp
+	
+Navigate inside the application: cd MarvellousApp
+
+Create a feature component: ng generate component Demo
+ 
+Serve the application: ng server 
+		       http://localhost:4200
