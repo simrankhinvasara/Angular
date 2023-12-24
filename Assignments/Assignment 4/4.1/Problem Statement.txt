@@ -1,0 +1,7 @@
+Q. Create First Basic Angular Application using below Commands -
+
+Create a new workspace and an initial project: ng new MarvellousFirst 
+	
+Serve the application: cd MarvellousFirst
+		       ng server 
+		       http://localhost:4200
