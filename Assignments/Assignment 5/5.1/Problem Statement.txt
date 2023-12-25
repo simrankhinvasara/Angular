@@ -1,0 +1,11 @@
+Q. Create Angular Application which will create one component named as FirstComp. That Component will display "Hello from First component" on page. Render that component from index.html file.   
+
+
+Create a new workspace and an initial project: ng new MarvellousApp
+	
+Navigate inside the application: cd MarvellousApp
+
+Create a feature component: ng generate component FirstComp
+ 
+Serve the application: ng server 
+		       http://localhost:4200
