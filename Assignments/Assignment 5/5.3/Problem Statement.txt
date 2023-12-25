@@ -1,0 +1,12 @@
+Q. Create Angular Application which will create two component named as FirstComp & SecondComp. FirstComp will display "Hello from First component" on page & SecondComp will display "Hello from Second conponent". Render FirstComp from App Component & SecondComp from FirstComp.
+
+
+Create a new workspace and an initial project: ng new MarvellousApp
+	
+Navigate inside the application: cd MarvellousApp
+
+Create a feature component: ng generate component FirstComp
+			    ng generate component SecondComp
+ 
+Serve the application: ng server 
+		       http://localhost:4200
