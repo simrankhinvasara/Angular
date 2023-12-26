@@ -1,0 +1,14 @@
+Q. Create Angular Application which will demonstrate the concept of string interpolation. For this purpose create new component named as NewComp and render that from App component. Inside that new component add one class property as name. 
+Display that Name in small case.
+Display that Name in capital case. 
+Display Name of string. 
+Display new string after concatenation with "Infosystems".
+
+Create a new workspace and an initial project: ng new MarvellousApp
+	
+Navigate inside the application: cd MarvellousApp
+
+Create a feature component: ng generate component NewComp
+ 
+Serve the application: ng server 
+		       http://localhost:4200
