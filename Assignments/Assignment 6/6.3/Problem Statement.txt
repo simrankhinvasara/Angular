@@ -1,0 +1,8 @@
+Q. Create same angular application as above but instead of using app.component.html and app.component.css file seperately add its contents in inline format inside app.component.ts file. 
+
+Create a new workspace and an initial project: ng new MarvellousApp
+	
+Navigate inside the application: cd MarvellousApp
+ 
+Serve the application: ng server 
+		       http://localhost:4200
