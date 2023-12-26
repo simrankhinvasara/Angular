@@ -1,0 +1,8 @@
+Q. Create Angular Application which will display one textfield and one startic text "Marvellous Infosystem" on page. 
+
+Create a new workspace and an initial project: ng new MarvellousApp
+	
+Navigate inside the application: cd MarvellousApp
+ 
+Serve the application: ng server 
+		       http://localhost:4200
